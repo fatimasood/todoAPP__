@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MidLabExam", "MidLabExam.csproj", "{94DBBA12-2C64-4A52-98C4-756AB73C0CEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94DBBA12-2C64-4A52-98C4-756AB73C0CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94DBBA12-2C64-4A52-98C4-756AB73C0CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94DBBA12-2C64-4A52-98C4-756AB73C0CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94DBBA12-2C64-4A52-98C4-756AB73C0CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60159F94-D195-4ACF-8F15-520458451FC0}
+	EndGlobalSection
+EndGlobal
